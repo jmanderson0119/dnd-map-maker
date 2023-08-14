@@ -2,7 +2,7 @@
 Welcome to the repository for my D&D map maker! 
 
 ## Description
-D&D Map Maker is a web application designed to streamline the process of creating, editing, and sharing top-down dungeon maps for the popular tabletop role-playing game Dungeons and Dragons. Whether you're a Dungeon Master looking to craft intricate environments for your players or a player who enjoys world-building, D&D Map Maker provides an intuitive platform to bring your ideas to life.
+Cribbie's Roundtable is a web application designed to streamline the process of creating, editing, and sharing top-down dungeon maps for the popular tabletop role-playing game Dungeons and Dragons. Whether you're a Dungeon Master looking to craft intricate environments for your players or a player who enjoys world-building, D&D Map Maker provides an intuitive platform to bring your ideas to life.
 
 ## Features
 * Create Custom Maps: Design unique dungeon layouts by placing rooms, corridors, traps, and more using an intuitive editing interface.
@@ -29,4 +29,4 @@ This project is licensed under the <a href="LICENSE">MIT License.</a>
 <br><br><br>
 Unleash your imagination and bring your Dungeons and Dragons campaigns to life with D&D Map Maker. Create, edit, and share captivating dungeon maps that enhance your gaming experience. Happy mapping!
 <br><br>
-Visit D&D Map Maker
+Visit Cribbie's Roundtable
